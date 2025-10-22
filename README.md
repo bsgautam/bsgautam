@@ -69,7 +69,6 @@
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
 </div>
-[![An image of @neolightx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neolightx)](https://holopin.io/@neolightx)
 ###
 
 <br clear="both">
